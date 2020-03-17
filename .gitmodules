@@ -1,0 +1,3 @@
+[submodule "eternalnightmare"]
+	path = eternalnightmare
+	url = https://github.com/abyssonym/eternalnightmare.git
